@@ -1,0 +1,28 @@
+[
+    {
+      "url": "http://10.10.123.45/dvwa/login.php",
+      "params": {"username": "admin", "password": "password"},
+      "body": "username=admin&password=password"
+    },
+    {
+      "url": "http://10.10.123.45/dvwa/vulnerabilities/sqli/",
+      "params": {"id": "' OR 1=1 --"},
+      "body": ""
+    },
+    {
+      "url": "http://10.10.123.45/dvwa/vulnerabilities/xss_r/",
+      "params": {"name": "<script>alert(1)</script>"},
+      "body": ""
+    },
+    {
+      "url": "http://10.10.123.45/dvwa/vulnerabilities/csrf/",
+      "params": {},
+      "body": "password_new=hacked&password_conf=hacked"
+    },
+    {
+      "url": "http://10.10.123.45/dvwa/about.php",
+      "params": {},
+      "body": ""
+    }
+  ]
+  
