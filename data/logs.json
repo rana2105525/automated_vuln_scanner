@@ -1,28 +1,62 @@
 [
     {
-      "url": "http://10.10.123.45/dvwa/login.php",
-      "params": {"username": "admin", "password": "password"},
-      "body": "username=admin&password=password"
-    },
-    {
-      "url": "http://10.10.123.45/dvwa/vulnerabilities/sqli/",
-      "params": {"id": "' OR 1=1 --"},
-      "body": ""
-    },
-    {
-      "url": "http://10.10.123.45/dvwa/vulnerabilities/xss_r/",
-      "params": {"name": "<script>alert(1)</script>"},
-      "body": ""
-    },
-    {
-      "url": "http://10.10.123.45/dvwa/vulnerabilities/csrf/",
-      "params": {},
-      "body": "password_new=hacked&password_conf=hacked"
-    },
-    {
-      "url": "http://10.10.123.45/dvwa/about.php",
-      "params": {},
-      "body": ""
+        "timestamp": "2025-04-20 21:13:54",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
     }
-  ]
-  
+]
