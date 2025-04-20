@@ -1,0 +1,446 @@
+[
+    {
+        "timestamp": "2025-04-20 21:13:54",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 21:34:45",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 21:52:32",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 21:54:42",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 21:56:05",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 22:06:09",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Error: HTTPConnectionPool(host='testphp.vulnweb.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x000001E3CFF43CE0>: Failed to resolve 'testphp.vulnweb.com' ([Errno 11001] getaddrinfo failed)\"))"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 22:07:11",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 22:19:07",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-04-20 22:19:35",
+        "target": "http://testphp.vulnweb.com/",
+        "results": [
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "https://www.acunetix.com/vulnerability-scanner/php-security-scanner/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/hpp/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "http://www.eclectasy.com/Fractal-Explorer/index.html",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/Mod_Rewrite_Shop/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Vulnerable"
+            },
+            {
+                "url": "https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://testphp.vulnweb.com/",
+                "SQL Injection": "Vulnerable",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            },
+            {
+                "url": "http://www.acunetix.com",
+                "SQL Injection": "Safe",
+                "XSS": "Safe",
+                "CSRF": "Safe"
+            }
+        ]
+    }
+]

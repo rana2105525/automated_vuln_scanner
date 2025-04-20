@@ -1,4 +1,32 @@
 
+URL: https://www.acunetix.com/vulnerability-scanner/
+--------------------------------------------------
+SQL Injection: Safe
+XSS: Safe
+CSRF: Safe
+--------------------------------------------------
+
+URL: https://www.acunetix.com/vulnerability-scanner/php-security-scanner/
+--------------------------------------------------
+SQL Injection: Safe
+XSS: Safe
+CSRF: Safe
+--------------------------------------------------
+
+URL: http://testphp.vulnweb.com/hpp/
+--------------------------------------------------
+SQL Injection: Safe
+XSS: Safe
+CSRF: Vulnerable
+--------------------------------------------------
+
+URL: http://www.eclectasy.com/Fractal-Explorer/index.html
+--------------------------------------------------
+SQL Injection: Safe
+XSS: Safe
+CSRF: Vulnerable
+--------------------------------------------------
+
 URL: https://www.acunetix.com/
 --------------------------------------------------
 SQL Injection: Safe
@@ -13,13 +41,6 @@ XSS: Safe
 CSRF: Vulnerable
 --------------------------------------------------
 
-URL: http://testphp.vulnweb.com/
---------------------------------------------------
-SQL Injection: Vulnerable
-XSS: Safe
-CSRF: Safe
---------------------------------------------------
-
 URL: https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/
 --------------------------------------------------
 SQL Injection: Safe
@@ -27,32 +48,11 @@ XSS: Safe
 CSRF: Safe
 --------------------------------------------------
 
-URL: https://www.acunetix.com/vulnerability-scanner/php-security-scanner/
+URL: http://testphp.vulnweb.com/
 --------------------------------------------------
-SQL Injection: Safe
+SQL Injection: Vulnerable
 XSS: Safe
 CSRF: Safe
---------------------------------------------------
-
-URL: http://www.eclectasy.com/Fractal-Explorer/index.html
---------------------------------------------------
-SQL Injection: Safe
-XSS: Safe
-CSRF: Vulnerable
---------------------------------------------------
-
-URL: https://www.acunetix.com/vulnerability-scanner/
---------------------------------------------------
-SQL Injection: Safe
-XSS: Safe
-CSRF: Safe
---------------------------------------------------
-
-URL: http://testphp.vulnweb.com/hpp/
---------------------------------------------------
-SQL Injection: Safe
-XSS: Safe
-CSRF: Vulnerable
 --------------------------------------------------
 
 URL: http://www.acunetix.com
